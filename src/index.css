@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: "PT Sans ";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "PT Sans "
+}

@@ -1,0 +1,59 @@
+{
+    "historial":[
+        {
+            "id": 12,
+            "mes":"Dicimbre",
+            "histori" : [
+                {
+                    "dia": "6 Dic",
+                    "idDia": 52,
+                    "movimientos":
+                        [
+                            { "tipo": 1, "lugar": "Uber", "cantidad": "97.63", "img": "" },
+                            { "tipo": 0, "lugar": "Transferencia Ana", "cantidad": "103.47", "img": "" },
+                            { "tipo": 0, "lugar": "Transferencia", "cantidad": "1569.62", "img": "" },
+                            { "tipo": 1, "lugar": "Netflix", "cantidad": "105.20", "img": "" }
+                        ]
+                },
+                {
+                    "dia": "5 Dic",
+                    "idDia": 56,
+                    "movimientos":
+                        [
+                            { "tipo": 1, "lugar": "Regalo Mariana", "cantidad": "299.99", "img": "" },
+                            { "tipo": 0, "lugar": "Transferencia Gabriel", "cantidad": "103.47", "img": "" },
+                            { "tipo": 1, "lugar": "Buffalo wings", "cantidad": "120.00", "img": "" },
+                            { "tipo": 1, "lugar": "Super", "cantidad": "572.27", "img": "" }
+                        ]
+                }
+            ]
+
+        },
+        {
+            "mes":"Enero",
+            "id": 1,
+            "histori" : [
+                {
+                    "dia": "6 Dic",
+                    "idDia": 8,
+                    "movimientos":
+                        [
+                            { "tipo": 1, "lugar": "Uber", "cantidad": "97.63", "img": "" },
+                            { "tipo": 0, "lugar": "Transferencia Ana", "cantidad": "103.47", "img": "" }
+                        ]
+                },
+                {
+                    "dia": "5 Dic",
+                    "idDia": 96,
+                    "movimientos":
+                        [
+                            { "tipo": 1, "lugar": "Regalo Mariana", "cantidad": "299.99", "img": "" },
+                            { "tipo": 1, "lugar": "Buffalo wings", "cantidad": "120.00", "img": "" },
+                            { "tipo": 1, "lugar": "Super", "cantidad": "572.27", "img": "" }
+                        ]
+                }
+            ]
+
+        }
+    ]
+}
