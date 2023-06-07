@@ -40,6 +40,7 @@ export const Transacciones = () => {
                     </div>
                 )
             })}
+                <button type="submit" style={{ backgroundColor: "#4a65a3", color: "#fff" }} className="btn btn-lg fixed-bottom mx-auto col-3 z-3 btn-flotante">Agregar movimientos</button>
 
 
 
